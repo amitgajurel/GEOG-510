@@ -2,7 +2,6 @@
 A repo for GEOG-510
 First Change made to this document
 
-This is a test.
 ## Lectures
 All lectures will be posted here
 ## Labs
